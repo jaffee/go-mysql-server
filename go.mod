@@ -1,4 +1,4 @@
-module github.com/src-d/go-mysql-server.v0
+module gopkg.in/src-d/go-mysql-server.v0
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
